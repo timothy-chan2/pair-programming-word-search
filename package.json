@@ -1,16 +1,19 @@
 {
   "name": "word-search",
   "version": "1.0.0",
-  "description": "",
+  "description": "Pair programming for Word Search challenge",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lighthouse-labs/pair-programming-word-search.git"
+    "url": "git+https://github.com/timothy-chan2/pair-programming-word-search"
   },
-  "author": "",
+  "contributors": [
+    "Timothy Chan (@timothy-chan2)",
+    "Harry Jiang (@harry1029)"
+  ],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/lighthouse-labs/pair-programming-word-search/issues"
